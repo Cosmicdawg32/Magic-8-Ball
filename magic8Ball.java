@@ -18,7 +18,7 @@ public class magic8Ball {
         System.out.print("Ask the Magic 8 Ball a \"Yes\" or \"No\" question: ");
         String question = kb.nextLine();
         String response = ballResponses.getRandomRespponse();
-        System.out.println(user.getName() + " asks: " + question);
+        System.out.println(user.getName() + " asked: " + question);
         System.out.println("Magic 8 Ball says: " + response);
         System.out.println("Press \"Enter\" key to continue: ");
         String tmp = kb.nextLine();
