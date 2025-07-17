@@ -68,7 +68,7 @@ After pressing the "Enter" key, the program loops back to the menu where you can
 * Ask another question
 * Exit the program
 
-Example menue after setting a name:
+Example menu after setting a name:
 
 ```bash
 ===== Magic 8 Ball =====
